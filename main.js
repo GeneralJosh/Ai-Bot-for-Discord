@@ -56,7 +56,9 @@ client.on('message', message =>{
     }   else if (command == 'invite'){
             client.commands.get('invite').execute(message, args);
     }   else if (command == 'uptime'){
-            client.commands.get('uptime').execute(message, args);   
+            client.commands.get('uptime').execute(message, args);
+    }   else if (command == 'discord'){
+            client.commands.get('discord').execute(message, args);   
 
     //Fun Reaction Commands
 
