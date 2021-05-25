@@ -1,7 +1,9 @@
 
-### # Ai Bot for Discord
+### Ai Bot for Discord
 
 Hosted on a personal server in my room for quick access at anytime. In the future maybe a hosting server, but Ai is more a passion project/hobby and somethign fun I've decided to do in my free time with other features planned most likely to come in the future
+
+## Commands
 
 - Main Bot Commands
 
