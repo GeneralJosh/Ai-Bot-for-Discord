@@ -3,9 +3,9 @@ const commando = require('discord.js-commando');
 module.exports = class StudyCommand extends commando.Command {
     constructor(client) {
         super(client, {
-            name: 'study',
+            name: 'studying',
             group: 'misc',
-            memberName: 'study',
+            memberName: 'studying',
             description: 'For someone who aint studying',
             });
         }
