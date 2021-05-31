@@ -3,6 +3,8 @@
 
 Hosted on a personal server in my room for quick access at anytime. In the future maybe a hosting server, but Ai is more a passion project/hobby and somethign fun I've decided to do in my free time with other features planned most likely to come in the future
 
+Please do not clone or copy this bot. The github is here to show the bots basic code as open source and trust. Thank You!  
+
 ### Commands
 
 - Main Bot Commands
@@ -83,3 +85,5 @@ Hosted on a personal server in my room for quick access at anytime. In the futur
 Any issues, please contact us in the Discord or myself personally (I change usernames too much)
 
 https://discord.gg/22p3ttY
+
+
