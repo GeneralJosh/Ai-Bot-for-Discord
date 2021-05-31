@@ -35,6 +35,8 @@ Hosted on a personal server in my room for quick access at anytime. In the futur
 | ~golf        | Sends a emote game of golf                                                                                                 | 
 | ~yes         | Sends an annoying small text wall saying no                                                                                | 
 | ~prove-it    | Sends something straight out of the 2000s saying "Prove me wrong boi                                                       | 
+| ~flip        | Flips a coin for heads or tails                                                                                            | 
+| ~say         | Clones what you cay and deletes the original message                                                                       | 
  
  - Monkey 
 
