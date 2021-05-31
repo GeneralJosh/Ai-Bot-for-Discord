@@ -17,6 +17,9 @@ Hosted on a personal server in my room for quick access at anytime. In the futur
 | ~discord      | Sends the bots Discord server invite                                                                                      |
 | ~source       | How you're probably here now                                                                                              |
 | ~help         | Help command                                                                                                              |
+| ~prefix       | Changes the prefix for your server                                                                                        |
+| ~enable       | Enables grouped commands                                                                                                  |
+| ~disable      | Disables grouped commands                                                                                                 |
 
 
 - Fun Stuff
