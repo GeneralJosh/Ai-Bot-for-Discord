@@ -13,7 +13,7 @@ module.exports = class InviteCommand extends commando.Command {
         async run(msg) {
             const messages = [];
             try {
-        msg.channel.send("**Here ya go!** \nhttps://top.gg/bot/801367525832130580");
+        msg.channel.send("**Here ya go!** \nhttps://discordbotlist.com/bots/ai-9535");
     }     
     finally {messages;
     }
