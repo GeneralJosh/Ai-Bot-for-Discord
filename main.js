@@ -10,12 +10,21 @@ const client = new commando.CommandoClient({
 
 client.login(config.token)
 
+client.registry.registerDefaultTypes()
+client.registry.registerDefaultGroups()
+client.registry.registerDefaultCommands({
+	help: false,
+	ping:false,
+})
 client.registry.registerGroups([
-	['mod', 'mod commands'],
-	['misc', 'misc commands'],
-	['bot', 'bot commands'],
-	['monkey', 'monkey commands']
+	['mod', 'Mod commands'],
+	['misc', 'Misc commands'],
+	['bot', 'Bot commands'],
+	['monkey', 'Monkey commands'],
+	['meme', 'Meme commands'],
+	['help', 'Help commands']
 ])
+
 .registerCommandsIn(path.join(__dirname, 'commands'));
 
 //Startup Function (Change type: STREAMING, LISTENING, COMPETING, CUSTOM_STATUS, PLAYING, WATCHING) 
