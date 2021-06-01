@@ -22,19 +22,20 @@ Please do not clone or copy this bot. The github is here to show the bots basic 
 | ~prefix       | Changes the prefix for your server                                                                                        |
 | ~enable       | Enables grouped commands                                                                                                  |
 | ~disable      | Disables grouped commands                                                                                                 |
+| ~embed        | Custom embed command to embed all your messages                                                                           |
 
 
 - Fun Stuff
 
 | Command      | Description                                                                                                                | 
 | ------------ | -------------------------------------------------------------------------------------------------------------------------- |  
-| ~bitch       | Sends an worred emote                                                                                                      | 
-| ~fuck        | Says "Fuck You!" back                                                                                                      | 
-| ~shut-up     | Owns you                                                                                                                   | 
+| bitch        | (No prefix)Sends an worred emote                                                                                           | 
+| whore        | (No prefix)Sends a heart eyes emote                                                                                        |
+| fuck         | (No prefix)Says "Fuck You!" back                                                                                           | 
+| shut up      | (No prefix)Owns you                                                                                                        | 
 | ~execute     | Pretends to ban users                                                                                                      | 
 | ~roll        | Rolls a dice from 1-20 or desided amount is supplied a number at the end of ~roll                                          | 
-| ~best-song   | Sends a YouTube link of a song I like at the time (Subject to change                                                       | 
-| ~whore       | Sends a heart eyes emote                                                                                                   | 
+| ~best-song   | Sends a YouTube link of a song I like at the time (Subject to change                                                       |  
 | ~duck-duck   | Pings a random user in the server and says "Goose!"                                                                        | 
 | ~hi          | Replies with "Sup!"                                                                                                        | 
 | ~begone      | Sends a lovely message with a begone thot spray image                                                                      | 
@@ -42,7 +43,9 @@ Please do not clone or copy this bot. The github is here to show the bots basic 
 | ~yes         | Sends an annoying small text wall saying no                                                                                | 
 | ~prove-it    | Sends something straight out of the 2000s saying "Prove me wrong boi                                                       | 
 | ~flip        | Flips a coin for heads or tails                                                                                            | 
-| ~say         | Clones what you cay and deletes the original message                                                                       | 
+| ~say         | Clones what you cay and deletes the original message                                                                       |
+| ~roulette    | Russian Roulette                                                                                                           | 
+| ~nya         | This video is going to end me                                                                                              | 
  
  - Monkey 
 
