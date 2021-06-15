@@ -20,6 +20,7 @@ Please do not clone or copy this bot. The github is here to show the bots basic 
 | ~source       | How you're probably here now                                                                                              |
 | ~help         | Help command                                                                                                              |
 | ~prefix       | Changes the prefix for your server                                                                                        |
+| ~groups       | Givees you a list of grouped commands you can disable                                                                     |
 | ~enable       | Enables grouped commands                                                                                                  |
 | ~disable      | Disables grouped commands                                                                                                 |
 | ~embed        | Custom embed command to embed all your messages                                                                           |
