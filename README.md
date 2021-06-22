@@ -21,8 +21,8 @@ Please do not clone or copy this bot. The github is here to show the bots basic 
 | ~help         | Help command                                                                                                              |
 | ~prefix       | Changes the prefix for your server                                                                                        |
 | ~groups       | Givees you a list of grouped commands you can disable                                                                     |
-| ~enable       | Enables grouped commands                                                                                                  |
-| ~disable      | Disables grouped commands                                                                                                 |
+| ~enable       | Enables commands/grouped commands                                                                                         |
+| ~disable      | Disables commands/grouped commands                                                                                        |
 | ~embed        | Custom embed command to embed all your messages                                                                           |
 
 
